@@ -10,3 +10,7 @@
 # Visualization
 
 ![](scatterplot.png)
+One can see that when the amount of WO students is high the total beer consumption is high as well.
+This possibly indicates that the total beer consumption in the Netherlands is positibely correlated with
+the amount of Dutch WO student; this can also be seen by the linear regression which has a positive
+slope.

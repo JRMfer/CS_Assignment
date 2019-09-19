@@ -6,3 +6,7 @@
   - Harvey, J. T., Culvenor, J., Payne, W., Cowley, S., Lawrance, M., Stuart, D., & Williams, R. (2002). An analysis of the forces required to drag sheep over various surfaces. *Applied Ergonomics*, 33(6), 523-531.
 * DW Ziegler et al., 2005
   - Zeigler, D. W., Wang, C. C., Yoast, R. A., Dickinson, B. D., McCaffree, M. A., Robinowitz, C. B., & Sterling, M. L. (2005). The neurocognitive effects of alcohol on adolescents and college students. *Preventive medicine*, 40(1), 23-32.
+
+# Visualization
+
+* ![](scatterplot.png)

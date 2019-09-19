@@ -9,4 +9,4 @@
 
 # Visualization
 
-* ![](scatterplot.png)
+![](scatterplot.png)
